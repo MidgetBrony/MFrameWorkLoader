@@ -13,7 +13,7 @@ MFrameworkLoader is a mod for [MelonLoader](https://melonwiki.xyz/) designed to 
 Before using MFrameworkLoader, ensure that the following requirements are met:
 
 1. [MelonLoader](https://melonwiki.xyz/) must be installed.
-2. .NET 6.0 Runtime must be installed. You can download it from [Microsoft's .NET page](https://dotnet.microsoft.com/en-us/download/dotnet/6.0).
+2. .NET 6.0 Runtime must be installed. You can download it from [Microsoft's .NET page](https://dotnet.microsoft.com/en-us/download/dotnet/8.0).
 
 ## Installation
 
