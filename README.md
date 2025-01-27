@@ -65,5 +65,5 @@ This project is licensed under the GNU General Public License v3.0 (GPL-3.0). Se
 
 ## Credits
 
-- Developed by: Russell
-- Game: Deskto pMate by infiniteloop
+- Developed by: MidgetBrony
+- Game: Desktop Mate by infiniteloop
