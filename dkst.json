@@ -1,8 +1,7 @@
 {
   "author": "MidgetBrony",
-  "discord": "MidgetBrony",
   "version": "1.0.0",
   "type": "MelonLoader",
   "category": ["Other"],
-  "description": "A mod for MelonLoader to dynamically load .NET 6.0 framework assemblies for Desktop Mate."
+  "description": "A MelonLoader mod that Enables the use of the .NET 6.0 Framework in Mods"
 }
